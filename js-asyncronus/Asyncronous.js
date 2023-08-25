@@ -1,4 +1,3 @@
-
 const enrollment = true;
 const marks = 90;
 
